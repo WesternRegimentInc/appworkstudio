@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Comilla Child
+ Theme URI:    http://themesvila.com/themes-wp/comilla/
+ Description:  Comilla Child Theme
+ Author:       Masum Billah
+ Author URI:   http://getmasum.net
+ Template:     comilla
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:  two-columns, right-sidebar
+ Text Domain:  comilla-Child
+*/
+
+
+body{
+	
+	overflow-x: hidden;
+}
+.user_admin_menu,
+.user_admin_menu.navbar-default.menu-shrink{
+	padding-top: 40px;
+}
