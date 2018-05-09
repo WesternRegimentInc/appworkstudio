@@ -1,0 +1,76 @@
+2018-05-07T13:36:05+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\laragon\www\appworkstudio\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('C:\\laragon\\www\\...')
+#4 C:\laragon\www\appworkstudio\wp-admin\includes\plugin.php(555): include_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\appworkstudio\wp-admin\plugins.php(43): activate_plugin('revslider/revsl...', 'http://appworks...', false)
+#6 {main}
+  thrown
+
+2018-05-07T13:36:36+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\laragon\www\appworkstudio\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('C:\\laragon\\www\\...')
+#4 C:\laragon\www\appworkstudio\wp-admin\includes\plugin.php(1897): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\appworkstudio\wp-admin\plugins.php(172): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown
+
+2018-05-07T13:36:36+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\laragon\www\appworkstudio\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('C:\\laragon\\www\\...')
+#4 C:\laragon\www\appworkstudio\wp-admin\includes\plugin.php(1897): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\appworkstudio\wp-admin\plugins.php(172): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown
+
+2018-05-07T13:57:16+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\laragon\www\appworkstudio\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('C:\\laragon\\www\\...')
+#4 C:\laragon\www\appworkstudio\wp-admin\includes\plugin.php(555): include_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\appworkstudio\wp-content\themes\comilla\inc\plugin-activator.php(1050): activate_plugin('revslider/revsl...')
+#6 C:\laragon\www\appworkstudio\wp-content\themes\comilla\inc\p
+
+2018-05-07T14:03:53+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\laragon\www\appworkstudio\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('C:\\laragon\\www\\...')
+#4 C:\laragon\www\appworkstudio\wp-admin\includes\plugin.php(555): include_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\appworkstudio\wp-admin\plugins.php(43): activate_plugin('revslider/revsl...', 'http://appworks...', false)
+#6 {main}
+  thrown
+
+2018-05-07T14:04:29+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\laragon\www\appworkstudio\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('C:\\laragon\\www\\...')
+#4 C:\laragon\www\appworkstudio\wp-admin\includes\plugin.php(1897): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\appworkstudio\wp-admin\plugins.php(172): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown
+
+2018-05-07T14:04:30+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\laragon\www\appworkstudio\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\laragon\www\appworkstudio\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('C:\\laragon\\www\\...')
+#4 C:\laragon\www\appworkstudio\wp-admin\includes\plugin.php(1897): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\appworkstudio\wp-admin\plugins.php(172): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown
+
